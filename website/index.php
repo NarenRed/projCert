@@ -2,5 +2,5 @@
 
 require 'config.php';
 require 'functions.php';
-echo 'narender'
+echo 'narende r'
 run();
